@@ -1,0 +1,13 @@
+c:\users\rudolph\documents\visual studio 2015\Projects\DataBaseStuff\DataBaseStuff\bin\Debug\DataBaseStuff.exe.config
+c:\users\rudolph\documents\visual studio 2015\Projects\DataBaseStuff\DataBaseStuff\bin\Debug\DataBaseStuff.exe
+c:\users\rudolph\documents\visual studio 2015\Projects\DataBaseStuff\DataBaseStuff\bin\Debug\DataBaseStuff.pdb
+c:\users\rudolph\documents\visual studio 2015\Projects\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.csprojResolveAssemblyReference.cache
+c:\users\rudolph\documents\visual studio 2015\Projects\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.exe
+c:\users\rudolph\documents\visual studio 2015\Projects\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.pdb
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\bin\Debug\DataBaseStuff.exe.config
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\bin\Debug\DataBaseStuff.exe
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\bin\Debug\DataBaseStuff.pdb
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.exe
+C:\Users\Root\Desktop\DataBaseStuff\DataBaseStuff\obj\Debug\DataBaseStuff.pdb
